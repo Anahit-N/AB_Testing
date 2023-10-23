@@ -1,0 +1,5 @@
+Bandit,Reward,Algorithm
+Return 1,0.0,Thompson Sampling
+Return 2,0.0,Thompson Sampling
+Return 3,0.0,Thompson Sampling
+Return 4,97280.27590321779,Thompson Sampling

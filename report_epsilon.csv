@@ -1,0 +1,5 @@
+Bandit,Reward,Algorithm
+Bandit with true mean 1,20015.53070579942,Epsilon Greedy
+Bandit with true mean 2,0.0,Epsilon Greedy
+Bandit with true mean 3,0.0,Epsilon Greedy
+Bandit with true mean 4,0.0,Epsilon Greedy
